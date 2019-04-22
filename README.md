@@ -9,3 +9,4 @@ If you want to output a result and related DICOM tag information to a text file,
 <li>getSampleSpacing DICOMfileNameYouWantToRead.dcm TextFileNameYouWantToOutput.txt</li>
 <li>getEchoSpacing DICOMfileNameYouWantToRead.dcm TextFileNameYouWantToOutput.txt</li>
 </ul>
+Use shell scripts in each OS directory, if you need to compile C++ files by yourself.
